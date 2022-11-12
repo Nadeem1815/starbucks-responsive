@@ -1,0 +1,81 @@
+
+
+.linker a
+{
+    text-decoration: none;
+    color: white;
+}
+.linker a:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+.navbar-collapse #btn1
+{
+    border-width: 2px;
+    border-color: black;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    width: 100px;
+}
+
+.navbar-collapse #join-now
+{
+    color:white;
+    background-color: black;
+    border-radius: 20px;
+    width: 100px;
+}
+
+.navbar-collapse #loco
+{
+    font-weight: bold;
+    color: black;
+}
+
+.section1 button
+{
+border-radius: 15px;
+background-color: #d50032;
+border-color: white;
+color: white;
+border-width: 1px;
+padding: 3px;
+}
+.section2 button
+{
+border-radius: 15px;
+background-color: #d50032;
+border-color: white;
+color: white;
+border-width: 1px;
+
+}
+.section3 button
+{
+border-radius: 15px;
+background-color: #00b388;
+border-color: white;
+color: white;
+border-width: 1px;
+
+}
+.section5 button{
+    border-radius: 15px;
+    border-color: white;
+    background-color: #d50032;
+    border-width: 1px;
+    color: white;
+}
+.underline a{
+    text-decoration: underline;
+    color: black;
+}
+.underline a:hover{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    list-style: none;
+}
